@@ -1,5 +1,21 @@
+table, th, tr, td {
+    margin: auto;
+    padding: 0.5%;
+    border-style: double;
+    border: 10px double white;
+    margin-top: 2.5%;
+    border-collapse: collapse;
+    color: white;
+}
+
+th, tr, td {
+    padding: 10pt;
+    text-align: center;
+    background-color: pink;
+}
+
 body {
-    background-image: url('images/bg.png');
+    background-image: url('images/bg2.png');
 }
 
 .uwu {
@@ -18,3 +34,4 @@ body {
     margin-bottom: 0%;
     color: white;
 }
+
